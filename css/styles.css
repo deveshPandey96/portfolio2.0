@@ -124,9 +124,9 @@ h3{
   left: 100px;
 }
 .self-img{
-  position: relative;
-  right: 250px;
-  top: 5px;
+  position: absolute;
+  left: 650px;
+
   height: 200px;
   width: 200px;
   border-radius: 100%;
@@ -275,6 +275,7 @@ right: 400px;
 }
 
 .foot{
-  background-color: grey;
-  height: 220px;
+  background-image: url("bg1.png");
+  width: 100%;
+  height: 200px;
 }
