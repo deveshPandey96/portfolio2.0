@@ -288,7 +288,7 @@ top: 2090px;
 
 .last{
   font-family: 'Nunito', sans-serif;
-  position: absolute;
-  top: 2240px;
-  left: 480px;
+  position: relative;
+  top: 210px;
+  left: 180px;
 }
