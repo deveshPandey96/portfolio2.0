@@ -1,0 +1,292 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+
+
+
+.skillset{
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+}
+
+.skillsets{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+
+.fb{
+  position: absolute;
+  right: 210px;
+}
+.git{
+  position: absolute;
+  right: 260px;
+}
+.twit{
+  position: absolute;
+  right: 310px;
+}
+.linkedin{
+  position: absolute;
+  right: 364px;
+}
+.email{
+  position: absolute;
+  right: 160px;
+}
+
+
+
+
+
+.skills{
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.projects{
+  width: 45%;
+  height: 780px;
+  background-image: url("bg2.png");
+  float: right;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.certificates{
+  width: 45%;
+  float: left;
+  height: 780px;
+padding: 10px;
+margin-bottom: 0;
+background-image: url("bg2.png");
+}
+
+a{
+  text-decoration: none;
+}
+
+.name{
+  font-family: 'Nunito', sans-serif;
+  position: absolute;
+  left: 100px;
+  top: 225px;
+}
+.top{
+  background-image:url("bg.jpg");
+
+  padding: 20px;
+  padding-top: 100px;
+  height: 800px;
+}
+
+.middle{
+  background-color: #EB92BE;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom{
+  background-color: #FFEF78;
+  width: 200px;
+  height: 200px;
+}
+h1{
+  font-size: 90px;
+  margin-top: 0;
+
+  /* font-family: 'Montserrat', sans-serif; */
+  font-weight:900;
+  /* font-family: 'Sacramento', cursive; */
+  /* position: absolute; */
+  /* left: 200px; */
+  color: white;
+}
+h2{
+  font-family: 'Nunito', sans-serif;
+}
+h3{
+  font-family: 'Nunito', sans-serif;
+}
+
+.intro{
+  font-family: 'Nunito', sans-serif;
+  text-align: justify;
+  position: absolute;
+  top: 320px;
+  left: 100px;
+}
+.self-img{
+  /* position: absolute;
+  left: 700px; */
+  padding-left: 50px;
+float: left;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.self{
+  border-radius: 0%;
+  height: 250px;
+}
+
+.comp{
+  height: 250px;
+}
+.contact-me{
+  margin-bottom: 20px;
+}
+
+.head{
+  background-color: #FEC260;
+}
+
+.middle-container{
+  /* background-image: url("bg.jpg"); */
+  display: inline;
+  height: 800px;
+}
+
+.drum{
+  float: left;
+  width: 50%;
+}
+.simon{
+  float: right;
+  width: 50%;
+}
+.news{
+  float: left;
+  width: 50%;
+}
+
+.drumset{
+  display: inline-block;
+  width: 100%;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.simongame{
+  display: inline-block;
+  width: 100%;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.newsletter{
+  display: inline-block;
+  width: 100%;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.drum-para{
+  position: relative;
+  top: 50px;
+
+}
+
+.simon-para{
+  position: relative;
+  top: 50px;
+}
+
+.news-para{
+  position: relative;
+  top: 50px;
+}
+
+
+.certi{
+  font-size: 50px;
+  color: white;
+}
+.about{
+  background-image: url("bg.jpg");
+  margin: 0;
+  height: 800px;
+}
+.para-about{
+  font-family: 'Nunito', sans-serif;
+text-align: justify;
+padding-left:300px;
+padding-top: 10px;
+position: relative;
+bottom: 20px;
+}
+
+.abt{
+
+  position: relative;
+  right: 475px;
+  padding-top: 20px;
+}
+
+
+.sql{
+  float: left;
+}
+.css{
+  float: left;
+}
+.js{
+  float: left;
+}
+.sqlBasic{
+  display: inline-block;
+  width: 100%;
+  background-color: white;
+  margin-top: 10px;
+}
+.cssBasic{
+  display: inline-block;
+  width: 100%;
+  background-color: white;
+  margin-top: 10px;
+}
+.jsBasic{
+  display: inline-block;
+  width: 100%;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.js-para{
+  font-weight: bolder;
+  position: relative;
+  top: 60px;
+}
+.sql-para{
+  font-weight: bolder;
+  position: relative;
+  top: 60px;
+}
+.css-para{
+  font-weight: bolder;
+  position: relative;
+  top: 60px;
+}
+
+.foot{
+  background-image: url("bg1.png");
+  width: 100%;
+  height: 210px;
+}
+
+.last{
+  font-family: 'Nunito', sans-serif;
+  position: relative;
+  bottom: 10px;
+}
